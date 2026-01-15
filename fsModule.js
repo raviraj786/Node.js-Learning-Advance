@@ -1,5 +1,8 @@
 const fs = require("fs");
 
+const os  = require('os')
+// console.log(os.cpus().length)  4
+
 // sync - bloacking code
 // async - unbloacking code
 
