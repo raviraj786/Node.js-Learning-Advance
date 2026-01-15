@@ -36,10 +36,6 @@ emmiter.emit("datasaved" ,{
     id : "122333shshj211"
 })
 
-
-
-
-
 //2 .   on(evntName , [arg])------excure
 
 
